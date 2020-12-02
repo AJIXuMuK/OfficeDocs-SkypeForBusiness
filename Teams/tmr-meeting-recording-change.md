@@ -132,7 +132,7 @@ Set-CsTeamsMeetingPolicy -Identity Global -RecordingStorageMode "Stream"
 
   <i>recorder's OneDrive for Business</i>/**Recordings**
 
-- For Channel meetings, the recording is stored in the Teams site documentation library in a folder named **Recordings**. Example:
+- For Channel meetings, the recording is stored in the Teams site document library in a folder named **Recordings**. Example:
 
   <i>Teams name - Channel name</i>/**Documents**/**Recordings**
 
